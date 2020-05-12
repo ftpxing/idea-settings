@@ -7,6 +7,21 @@
   <component name="VimKeySettings">
     <shortcut-conflicts />
   </component>
+  <component name="VimMarksSettings">
+    <globalmarks />
+    <filemarks>
+      <file name="/console" timestamp="1589254405585">
+        <mark key="[" line="0" column="0" />
+      </file>
+    </filemarks>
+    <jumps />
+  </component>
+  <component name="VimSearchSettings">
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+  </component>
   <component name="VimSettings">
     <state version="6" enabled="true" />
     <notifications>
