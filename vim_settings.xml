@@ -10,7 +10,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/console" timestamp="1589254405585">
+      <file name="/console" timestamp="1589254777036">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -26,7 +26,7 @@
     </search>
   </component>
   <component name="VimSettings">
-    <state version="6" enabled="true" />
+    <state version="6" enabled="false" />
     <notifications>
       <idea-join enabled="false" />
       <idea-put enabled="false" />
