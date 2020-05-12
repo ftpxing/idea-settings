@@ -9,17 +9,35 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed D</text>
       </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed K</text>
+      </shortcut-conflict>
     </shortcut-conflicts>
   </component>
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Project/shuidi/sea-claim/src/main/java/com/shuidihuzhu/op/claim/service/ConsultReportService.java" timestamp="1589263722462">
-        <mark key="[" line="147" column="148" />
-        <mark key="^" line="145" column="35" />
+      <file name="$USER_HOME$/Project/shuidi/sea-claim/src/main/resources/mappers/huzhu/apply/ApplyDao.xml" timestamp="1589265233791" />
+      <file name="$USER_HOME$/Project/shuidi/sea-claim/src/main/java/com/shuidihuzhu/op/claim/service/ConsultReportService.java" timestamp="1589265372035">
+        <mark key="[" line="143" column="97" />
+        <mark key="]" line="143" column="95" />
+        <mark key="^" line="143" column="95" />
+        <mark key="." line="143" column="94" />
+      </file>
+      <file name="$USER_HOME$/Project/shuidi/sea-claim/src/main/java/com/shuidihuzhu/op/claim/dao/apply/KefuRecordOperateHistoryDao.java" timestamp="1589264975897">
+        <mark key="[" line="35" column="65" />
+        <mark key="]" line="35" column="92" />
+        <mark key="^" line="35" column="92" />
+        <mark key="." line="35" column="91" />
       </file>
       <file name="/console" timestamp="1589255663477">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Project/shuidi/sea-claim/src/main/resources/mappers/huzhu/apply/ClaimKeywordMapper.xml" timestamp="1589265266862">
+        <mark key="[" line="83" column="59" />
+        <mark key="]" line="84" column="27" />
+        <mark key="." line="84" column="26" />
+        <mark key="^" line="84" column="27" />
       </file>
     </filemarks>
     <jumps />
@@ -27,16 +45,22 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBhbXBsZSBleGFtYXNpY0V4YW1wbGUoKTsK</text>
+        <text encoding="base64">Cgk8c2VsZWN0IGlkPSJnZXRCeUV2ZW50U3RhdHVzQW5kU3RhcnRUaW1lQW5kRW5kVGltZSIgcmVzdWx0VHlwZT0iY29tLnNodWlkaWh1emh1Lm9wLmNsYWltLm1vZGVsLmFwcGx5LktlZnVSZWNvcmRPcGVyYXRlSGlzdG9yeSI+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgdXNlck1pcyA9IHRoaXMudXNlckFjY291bnRCaXouZ2V0TWlzQnlJZCh1c2VySWQpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBhbXBsZSBleGFtYXNpY0V4YW1wbGUoKTsK</text>
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">CTxzZWxlY3QgaWQ9Imxpc3RCeUFwcGx5SWRzIiByZXN1bHRUeXBlPSIiCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgdXNlck1pcyA9IHRoaXMudXNlckFjY291bnRCaXouZ2V0TWlzQnlJZCh1c2VySWQpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>B</text>
+        <text>)</text>
       </register>
     </registers>
   </component>
@@ -47,7 +71,7 @@
     </search>
   </component>
   <component name="VimSettings">
-    <state version="6" enabled="true" />
+    <state version="6" enabled="false" />
     <notifications>
       <idea-join enabled="false" />
       <idea-put enabled="false" />
