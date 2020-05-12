@@ -5,19 +5,39 @@
     </editor>
   </component>
   <component name="VimKeySettings">
-    <shortcut-conflicts />
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
   </component>
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/console" timestamp="1589254777036">
+      <file name="$USER_HOME$/Project/shuidi/sea-claim/src/main/java/com/shuidihuzhu/op/claim/service/ConsultReportService.java" timestamp="1589256282856">
+        <mark key="^" line="144" column="35" />
+      </file>
+      <file name="/console" timestamp="1589255663477">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps />
   </component>
   <component name="VimRegisterSettings">
-    <registers />
+    <registers>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBhbXBsZSBleGFtYXNpY0V4YW1wbGUoKTsK</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgdXNlck1pcyA9IHRoaXMudXNlckFjY291bnRCaXouZ2V0TWlzQnlJZCh1c2VySWQpOwo=</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBhbXBsZSBleGFtYXNpY0V4YW1wbGUoKTsK</text>
+      </register>
+      <register name="-" type="4">
+        <text>B</text>
+      </register>
+    </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
