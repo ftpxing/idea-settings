@@ -1,0 +1,9 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="Java">
+        <added pattern="com.shuidihuzhu.common.web.util.EncryptUtil.aesDecrypt(str)" />
+      </blacklist>
+    </blacklists>
+  </component>
+</application>
