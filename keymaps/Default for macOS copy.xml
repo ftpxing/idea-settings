@@ -1,4 +1,8 @@
 <keymap version="1" name="Default for macOS copy" parent="Mac OS X 10.5+">
+  <action id="CloseAllEditorsButActive">
+    <keyboard-shortcut first-keystroke="meta w" />
+  </action>
+  <action id="CloseContent" />
   <action id="NextProjectWindow">
     <keyboard-shortcut first-keystroke="meta alt back_quote" />
     <mouse-shortcut keystroke="control meta button1" />
